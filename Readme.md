@@ -28,5 +28,5 @@ Merupakan data yang telah melalui tahapan *Preprocessing* (Cleaning, Case Foldin
 - **Penanganan Imbalanced Data:** SMOTE.
 
 ## 👤 Penulis
-[Nama Lengkap Anda]
-[Nama Universitas]
+[Gibran Hait Sami]
+[22.83.0831]
